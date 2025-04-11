@@ -8,7 +8,7 @@
 <a href='https://arxiv.org/abs/2412.08864'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 <a href='https://github.com/Jayce1kk/GSDP/blob/main/sampled_GSDP_20K.jsonl'><img src='https://img.shields.io/badge/Dataset-HuggingFace-blue'></a>
 
-This work was done during my internship at Beijing Yuanshi Technology
+This work was done during my internship at [Beijing Yuanshi Technology](https://huggingface.co/MetaStoneTec)
 
 -----------
 
