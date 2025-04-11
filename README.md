@@ -18,7 +18,7 @@ This repository will provide the GSDP-MATH and GSDP-Model for GSDP.
 
 ### TODO
 
-- We will release the **the complete GSDP-MATH dataset**.
+- We will open-source the complete data and synthsis pipleline after this manuscript being accept immediately.
 
 ### Overview
 
