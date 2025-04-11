@@ -15,6 +15,7 @@ This work was done during my internship at [Beijing Yuanshi Technology](https://
 ### Updates
 
 - 2024-12-12: 📄 Our paper is now available on [Arxiv](https://arxiv.org/abs/2412.08864).
+- 2025-4-10: We have publicly released [20K samples](https://github.com/Jayce1kk/GSDP/blob/main/sampled_GSDP_20K.jsonl) from the GSDP-MATH dataset.
 
 ### TODO
 
