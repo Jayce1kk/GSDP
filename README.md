@@ -19,7 +19,7 @@ This work was done during my internship at [Beijing Yuanshi Technology](https://
 
 ### TODO
 
-- We will open-source the **complete data, synthsis pipleline and model** after this manuscript being accept immediately.
+- We will open-source the **complete data, synthsis pipleline and models** after this manuscript being accept immediately.
 
 ### Overview
 
