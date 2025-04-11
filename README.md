@@ -18,7 +18,7 @@ This repository will provide the GSDP-MATH and GSDP-Model for GSDP.
 
 ### TODO
 
-- We will open-source the complete data and synthsis pipleline after this manuscript being accept immediately.
+- We will open-source the **complete data, synthsis pipleline and model** after this manuscript being accept immediately.
 
 ### Overview
 
