@@ -8,7 +8,9 @@
 <a href='https://arxiv.org/abs/2412.08864'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 <a href='https://github.com/Jayce1kk/GSDP/blob/main/sampled_GSDP_20K.jsonl'><img src='https://img.shields.io/badge/Dataset-HuggingFace-blue'></a>
 
-This work was done during my internship at [Beijing Yuanshi Technology](https://huggingface.co/MetaStoneTec)
+This work was done during my internship at [Beijing Yuanshi Technology](https://huggingface.co/MetaStoneTec).
+
+This Synthetic Data Pipeline can be applied to mathematics, coding, and various scientific fields. It is worth noting that our work has contributed to the [MetaStone-L1-7B](https://huggingface.co/MetaStoneTec/MetaStone-L1-7B#citation) model.
 
 -----------
 
