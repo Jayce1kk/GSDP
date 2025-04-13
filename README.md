@@ -10,7 +10,12 @@
 
 This work was done during my internship at [Beijing Yuanshi Technology](https://huggingface.co/MetaStoneTec).
 
-This Synthetic Data Pipeline can be applied to mathematics, coding, and various scientific fields. It is worth noting that our work has contributed to the [MetaStone-L1-7B](https://huggingface.co/MetaStoneTec/MetaStone-L1-7B#citation) model.
+-----------
+
+### Contributions
+
+- GSDP can be applied to mathematics, coding, and various scientific fields. 
+- Our work has contributed to the [MetaStone-L1-7B](https://huggingface.co/MetaStoneTec/MetaStone-L1-7B#citation) model.
 
 -----------
 
